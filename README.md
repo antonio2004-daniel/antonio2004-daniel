@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👨‍💻 Sobre mí / About Me
 
-<!--
-**antonio2004-daniel/antonio2004-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Me encanta leer, asistir a reuniones de programación, hablar sobre criptomonedas, y perderme entre ideas con un buen café en la mano (y a veces, sobre una bicicleta).
 
-Here are some ideas to get you started:
+🚴‍♂️ Soy  Antonio Daniel, estudiante de Ingeniería en Tecnologías de la Información en la BUAP.  
+Disfruto construir, romper y entender cómo funcionan las cosas... especialmente si hay un reto técnico de por medio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Me verás en comunidades tech, con auriculares, notas, y una taza de café cargado. Porque así se aprende mejor.
+
+
+🔭 **En qué estoy trabajando / Currently working on:**                                      
+- Automatización con Bash  
+- Administración de servidores (AlmaLinux & amigos)  
+- Sistemas de monitoreo como Nagios  
+- Proyectos académicos y personales que desafíen mis límites
+- Administración de base de datos
+
+🌱 **Aprendiendo / Currently learning:**  
+- Git avanzado  
+- Infraestructura TI  
+- SQL y bases de datos relacionales  
+- Y, claro, más sobre blockchain y criptomonedas
+
+👯 **Quiero colaborar en / Looking to collaborate on:**  
+- Proyectos técnicos con espíritu comunitario  
+- Iniciativas open source que enseñen, inspiren y reten  
+- Cualquier cosa donde se valore el aprendizaje y el trabajo bien hecho
+
+📫 **¿Conectamos? / Let’s connect:**  
+- Aquí mismo en GitHub  
+- LinkedIn (pronto)  
+- O en una charla de programación tomando café
+
+⚡ **Fun fact / Dato curioso:**  
+Tengo más libros que RAM en mi PC. Y a veces, más ideas que tiempo.
+---
+> “Programar, pedalear, leer y aprender. No necesito más para avanzar.”
